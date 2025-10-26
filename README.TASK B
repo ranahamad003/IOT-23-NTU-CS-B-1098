@@ -1,0 +1,11 @@
+https://wokwi.com/projects/445876374136970241
+
+PIN MAPPING - TASK B
+
+Component	ESP32 Pin	Purpose
+Button	  GPIO 14	Single button for press detection
+LED	      GPIO 5	LED to toggle ON/OFF
+Buzzer	  GPIO 25	Buzzer for long press tone
+OLED SDA	GPIO 21	I2C Data (Default)
+OLED SCL	GPIO 22	I2C Clock (Default)
+All GND	  GND	Ground
