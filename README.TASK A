@@ -1,0 +1,14 @@
+https://wokwi.com/projects/445868683781107713
+
+
+ PIN MAPPING - TASK A
+Component	ESP32 Pin	Purpose
+Button 1	GPIO 14	Mode Cycle Button
+Button 2	GPIO 27	Reset Button
+LED 1	GPIO 5	Red LED
+LED 2	GPIO 18	Green LED
+LED 3	GPIO 19	Blue LED (PWM Fade)
+Buzzer	GPIO 25	Buzzer/Speaker
+OLED SDA	GPIO 21	I2C Data (Default)
+OLED SCL	GPIO 22	I2C Clock (Default)
+All GND	GND	Ground
